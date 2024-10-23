@@ -1,3 +1,15 @@
+**0. Требования к ресурсам**
+1 FHD сессия, кодировщик h264			
+GPU	RTX 3060 12GB - 1	шт
+CPU	4-5GHz cpu	- 14	cores
+RAM	ddr4 or ddr5 -	16	GB
+      
+1 FHD сессия, кодировщик vp9			
+GPU	RTX 3060 12GB	- 1	шт
+CPU	4-5GHz cpu	- 16	cores
+RAM	ddr4 or ddr5	- 16	GB
+
+
 **1. Установить omniverse**
 
 https://www.nvidia.com/en-in/omniverse/
